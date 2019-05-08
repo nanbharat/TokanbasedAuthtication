@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\bin\Debug\netcoreapp2.2\TokanBaseAPIDemo.deps.json
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\bin\Debug\netcoreapp2.2\TokanBaseAPIDemo.runtimeconfig.json
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\bin\Debug\netcoreapp2.2\TokanBaseAPIDemo.runtimeconfig.dev.json
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\bin\Debug\netcoreapp2.2\TokanBaseAPIDemo.dll
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.RazorAssemblyInfo.cache
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.RazorAssemblyInfo.cs
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.AssemblyInfo.cs
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.RazorTargetAssemblyInfo.cache
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\bin\Debug\netcoreapp2.2\TokanBaseAPIDemo.pdb
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.dll
+C:\Users\user1\source\repos\TokanBaseAPIDemo\TokanBaseAPIDemo\obj\Debug\netcoreapp2.2\TokanBaseAPIDemo.pdb
